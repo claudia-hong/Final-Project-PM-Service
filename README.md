@@ -13,44 +13,26 @@
 </br>
 
 ## 2. 사용 기술
-#### `Back-end`
-  - Java 11
-  - Spring Boot 2.3
-  - Maven
-  - Spring Data JPA
-  - QueryDSL
-  - MariaDB
-  - Spring Security
-  - 
-#### `Front-end`
-  - Thymeleaf
+### Client
 
+- HTML
+- JS
+- CSS
+- JQuery
+- Bootstrap
+- CKEditor5
+
+### Server
+- Spring
+- Java
+- Maven
+- mybatis
+- EC2
+- Oracle
+- Tomcat
+- RDS
 </br>
 
-## 3. ERD 설계
-
-
-
-## 4. 핵심 기능
-
-
-### 4.1. 전체 흐름
-
-
-### 4.2. 사용자 요청
-
-### 4.3. Controller
-
-
-
-### 4.4. Service
-
-
-
-### 4.5. Repository
-
-
-</div>
 </details>
 
 </br>
