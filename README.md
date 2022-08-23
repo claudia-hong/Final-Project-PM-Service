@@ -23,8 +23,8 @@
 - CKEditor5
 
 ### Server
-- Spring
-- Java
+- Spring Boot
+- Java 11
 - Maven
 - mybatis
 - EC2
